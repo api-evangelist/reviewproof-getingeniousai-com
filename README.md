@@ -72,6 +72,83 @@ ReviewProof, powered by Ingenious AI, provides businesses with audit‑grade pro
 
 Everything profiled for ReviewProof (Ingenious AI) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/reviewproof-getingeniousai-com/](https://apis.io/providers/reviewproof-getingeniousai-com/)** — or go straight to one of the APIs or properties below.
 
+### APIs (28)
+
+- [ReviewProof (Ingenious AI) App API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-app-api/) — The App API from ReviewProof (Ingenious AI) — 11 operation(s) for app.
+- [ReviewProof (Ingenious AI) Billing API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-billing-api/) — The Billing API from ReviewProof (Ingenious AI) — 2 operation(s) for billing.
+- [ReviewProof (Ingenious AI) Crypto Checkout API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-crypto-checkout-api/) — The Crypto Checkout API from ReviewProof (Ingenious AI) — 1 operation(s) for crypto checkout.
+- [ReviewProof (Ingenious AI) Demo Embed API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-demo-embed-api/) — The Demo Embed API from ReviewProof (Ingenious AI) — 1 operation(s) for demo embed.
+- [ReviewProof (Ingenious AI) Graph API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-graph-api/) — The Graph API from ReviewProof (Ingenious AI) — 1 operation(s) for graph.
+- [ReviewProof (Ingenious AI) Guides API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-guides-api/) — The Guides API from ReviewProof (Ingenious AI) — 2 operation(s) for guides.
+- [ReviewProof (Ingenious AI) Healthz API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-healthz-api/) — The Healthz API from ReviewProof (Ingenious AI) — 1 operation(s) for healthz.
+- [ReviewProof (Ingenious AI) Keys API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-keys-api/) — The Keys API from ReviewProof (Ingenious AI) — 2 operation(s) for keys.
+- [ReviewProof (Ingenious AI) Llms.txt API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-llms-txt-api/) — The Llms.txt API from ReviewProof (Ingenious AI) — 1 operation(s) for llms.txt.
+- [ReviewProof (Ingenious AI) Me API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-me-api/) — The Me API from ReviewProof (Ingenious AI) — 1 operation(s) for me.
+- [ReviewProof (Ingenious AI) Paypal Manual Confirm API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-paypal-manual-confirm-api/) — The Paypal Manual Confirm API from ReviewProof (Ingenious AI) — 1 operation(s) for paypal manual confirm.
+- [ReviewProof (Ingenious AI) Paypal Manual Info API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-paypal-manual-info-api/) — The Paypal Manual Info API from ReviewProof (Ingenious AI) — 1 operation(s) for paypal manual info.
+- [ReviewProof (Ingenious AI) Pricing API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-pricing-api/) — The Pricing API from ReviewProof (Ingenious AI) — 1 operation(s) for pricing.
+- [ReviewProof (Ingenious AI) Privacy API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-privacy-api/) — The Privacy API from ReviewProof (Ingenious AI) — 1 operation(s) for privacy.
+- [ReviewProof (Ingenious AI) Provenance API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-provenance-api/) — The Provenance API from ReviewProof (Ingenious AI) — 4 operation(s) for provenance.
+- [ReviewProof (Ingenious AI) Provenance Sample API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-provenance-sample-api/) — The Provenance Sample API from ReviewProof (Ingenious AI) — 1 operation(s) for provenance sample.
+- [ReviewProof (Ingenious AI) Rail Webhook API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-rail-webhook-api/) — The Rail Webhook API from ReviewProof (Ingenious AI) — 1 operation(s) for rail webhook.
+- [ReviewProof (Ingenious AI) Review Proof API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-reviewproof-api/) — The ReviewProof API from ReviewProof (Ingenious AI) — 2 operation(s) for reviewproof.
+- [ReviewProof (Ingenious AI) Reviews API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-reviews-api/) — The Reviews API from ReviewProof (Ingenious AI) — 1 operation(s) for reviews.
+- [ReviewProof (Ingenious AI) Robots.txt API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-robots-txt-api/) — The Robots.txt API from ReviewProof (Ingenious AI) — 1 operation(s) for robots.txt.
+- [ReviewProof (Ingenious AI) Second Visit API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-second-visit-api/) — The Second Visit API from ReviewProof (Ingenious AI) — 1 operation(s) for second visit.
+- [ReviewProof (Ingenious AI) Sitemap.xml API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-sitemap-xml-api/) — The Sitemap.xml API from ReviewProof (Ingenious AI) — 1 operation(s) for sitemap.xml.
+- [ReviewProof (Ingenious AI) Terms API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-terms-api/) — The Terms API from ReviewProof (Ingenious AI) — 1 operation(s) for terms.
+- [ReviewProof (Ingenious AI) Usage API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-usage-api/) — The Usage API from ReviewProof (Ingenious AI) — 1 operation(s) for usage.
+- [ReviewProof (Ingenious AI) Verify API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-verify-api/) — The Verify API from ReviewProof (Ingenious AI) — 1 operation(s) for verify.
+- [ReviewProof (Ingenious AI) Widget API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-widget-api/) — The Widget API from ReviewProof (Ingenious AI) — 1 operation(s) for widget.
+- [ReviewProof (Ingenious AI) Widget Data API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-widget-data-api/) — The Widget Data API from ReviewProof (Ingenious AI) — 1 operation(s) for widget data.
+- [ReviewProof (Ingenious AI) Widget.js API](https://apis.io/apis/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-widget-js-api/) — The Widget.js API from ReviewProof (Ingenious AI) — 1 operation(s) for widget.js.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [ReviewProof (Ingenious AI) Agentic Access](https://apis.io/agentic-access/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Body_do_import_app_import_post](https://apis.io/schemas/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-body-do-import-app-import-post/)
+- [Body_graph_flag_app_graph_flag_post](https://apis.io/schemas/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-body-graph-flag-app-graph-flag-post/)
+- [Body_moderate_app_moderate_post](https://apis.io/schemas/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-body-moderate-app-moderate-post/)
+- [Body_provenance_attach_app_provenance_attach_post](https://apis.io/schemas/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-body-provenance-attach-app-provenance-attach-post/)
+- [Body_provenance_publish_app_provenance_publish_post](https://apis.io/schemas/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-body-provenance-publish-app-provenance-publish-post/)
+- [Body_provenance_verify_page_provenance__public_id__verify_post](https://apis.io/schemas/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-body-provenance-verify-page-provenance-public-id-verify-post/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Reviewproof Getingeniousai Com Context](https://apis.io/jsonld/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ReviewProof (Ingenious AI) API Rules](https://apis.io/rules/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [ReviewProof (Ingenious AI) Authentication](https://apis.io/security/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-authentication/)
+- [ReviewProof (Ingenious AI) Domain Security](https://apis.io/security/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [ReviewProof (Ingenious AI) Plans Pricing](https://apis.io/plans/reviewproof-getingeniousai-com/reviewproof-getingeniousai-com-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -85,7 +162,47 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/reviewproof-getingeniousai-com/](https://apis.io/providers/reviewproof-getingeniousai-com/).
+**Kin Score 52.1** — developing · rubric 0.27.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 51.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 73.2 |
+
+**Agent readiness 32.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/reviewproof-getingeniousai-com/](https://apis.io/providers/reviewproof-getingeniousai-com/).
 
 ## How this profile is made
 
